@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ChrisO  chriso@git.training @chrisO
 
 # THANKS
 
